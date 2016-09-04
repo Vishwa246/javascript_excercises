@@ -1,1 +1,4 @@
 # javascript_excercises
+
+//To click "Load More" button on youtube watch later page
+document.getElementsByClassName("load-more-text")[0].click();
